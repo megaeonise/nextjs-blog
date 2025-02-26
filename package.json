@@ -6,6 +6,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@tailwindcss/postcss": "^4.0.9",
     "clsx": "^2.1.1",
     "date-fns": "^4.1.0",
     "gray-matter": "^4.0.3",
@@ -22,6 +23,6 @@
     "autoprefixer": "^10.4.20",
     "postcss": "^8.5.3",
     "sass": "^1.85.0",
-    "tailwindcss": "^4.0.8"
+    "tailwindcss": "^4.0.9"
   }
 }
